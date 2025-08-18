@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O project luni é um agregador de links para usar como cartao de visitas.
+O projeto é um agregador de links para usar como cartao de visitas.
 
 ## 🔖 Layout
 
@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Luni.Dev :wave: [Istagram](https://www.instagram.com/luni_er_/)
