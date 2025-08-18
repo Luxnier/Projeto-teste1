@@ -30,8 +30,9 @@ body * {
 }
 
 #container {
-  width: 360px;
-  margin: 56px auto 8px auto;
+  width: 100%;
+  max-width: 580px;
+  margin: 56px auto 8px;
   padding: 0% 24px;
 }
 #profile {
