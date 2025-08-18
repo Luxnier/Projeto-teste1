@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Luni.Dev :wave: [Istagram](https://www.instagram.com/luni_er_/)
+Feito por Luni.Dev :wave: [Instagram](https://www.instagram.com/luni_er_/)
